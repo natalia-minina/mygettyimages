@@ -1,0 +1,15 @@
+<resources>
+
+    <!--default size-->
+    <style name="AppDefaultTextStyle">
+        <item name="android:textColorHint">@color/light_grey_color</item>
+        <item name="android:textColor">@color/black_color</item>
+        <item name="android:textSize">@dimen/default_text_size</item>
+    </style>
+
+    <style name="AppDefaultWhiteTextStyle" parent="@style/AppDefaultTextStyle">
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:textColorHint">@color/white_color</item>
+    </style>
+
+</resources>

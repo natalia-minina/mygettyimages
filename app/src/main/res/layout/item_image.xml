@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/photoIV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:layout_alignBottom="@+id/photoIV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/text_bg" />
+
+    <TextView
+        android:id="@+id/photoNameTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/AppDefaultWhiteTextStyle"
+        android:padding="@dimen/small_offset"
+        android:layout_alignBottom="@+id/photoIV"/>
+    </RelativeLayout>
+</RelativeLayout>

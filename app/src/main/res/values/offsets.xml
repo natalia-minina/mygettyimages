@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_offset">1dp</dimen>
+    <dimen name="tiny_offset">3dp</dimen>
+    <dimen name="small_offset">5dp</dimen>
+    <dimen name="xsmall_offset">8dp</dimen>
+    <dimen name="medium_offset">10dp</dimen>
+    <dimen name="xmedium_offset">12dp</dimen>
+    <dimen name="xxmedium_offset">15dp</dimen>
+    <dimen name="large_offset">20dp</dimen>
+    <dimen name="xlarge_offset">25dp</dimen>
+    <dimen name="xxlarge_offset">30dp</dimen>
+    <dimen name="xxxlarge_offset">35dp</dimen>
+    <dimen name="xxxxlarge_offset">40dp</dimen>
+    <dimen name="xxxxxlarge_offset">50dp</dimen>
+    <dimen name="extra_large_offset">60dp</dimen>
+    <dimen name="xextra_large_offset">75dp</dimen>
+    <dimen name="xxextra_large_offset">90dp</dimen>
+
+</resources>

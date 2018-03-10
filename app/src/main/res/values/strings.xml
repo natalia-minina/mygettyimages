@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyGettyImages</string>
+    <string name="search_getty_images">Search Getty Images</string>
+    <string name="has_error_occurred">An error has occurred.</string>
+    <string name="empty_search_result_message">Unfortunately, your search returned no results.</string>
+    <string name="search_query_is_too_short">Search string is too short (at least 2 characters).</string>
+    <string name="network_error_in_update">An error occurred while executing the request. Check the network connections.</string>
+</resources>
